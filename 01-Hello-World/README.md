@@ -26,5 +26,7 @@ int main(void) { Here we are in the main program section in which we declare var
 return 0:Indicates that the program terminated without errors, such that a return of 0 means that no errors occured during
 the execution and a return of value different to 0 means that there are errors occured in the program}
 
+--Here is the result of the program execution:
+
 <img width="1361" height="741" alt="Hello-World" src="https://github.com/user-attachments/assets/fd369146-a03d-42c9-b891-1863ba590805" />
 
