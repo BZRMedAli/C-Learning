@@ -10,7 +10,7 @@
 
   -Variables help us to easily access, update, and manipulate data, so they are important!!!
 
-  the syntax of variables declaration in c is:
+  The syntax of variables declaration in c is:
   type_values  value_name;
 
   #scanf() and printf() functions:
@@ -29,11 +29,14 @@ variables.
   After this scan the entered value is replaced in the variable memory space specified in scanf() function by (&) symbol who
  refers to address.
 
- in this function, we specify the type of variable, and the variable name, the syntax used is like the following:
+ In this function, we specify the type of variable, and the variable name, the syntax used is like the following:
 
  scanf("%type_variable",&variable_name); 
  
  In the variable_name section we should respect the exact name given to our variable!!!.
 
  --Here is an exemple of a program that read a student grade average, and display it:
+
+<img width="1366" height="741" alt="variables-exo1" src="https://github.com/user-attachments/assets/e1299e25-52d6-467a-afd0-d026e6c104d6" />
+
   
