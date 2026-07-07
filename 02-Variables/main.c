@@ -5,6 +5,6 @@ int main(void){
   printf("Give a student grade average:");
   scanf("%f",&moy);
 
-  printf("The student grade average given is:%.2f",moy);
+  printf("The student grade average given is:%.2f",moy);  //I used %.2f to display 2 digits after comma
   return 0;
 }
