@@ -48,14 +48,31 @@ i_increments;
 Here is an exercice in which we will use while, for and do..while:
   For example we will try to realise a program that allow to the user to give the number of repitition (n),printing the message (Hello, World!) n times:
 
-  --First case (With for loop):Here i choosed n=10
+# -for loop with n=10:
   
 
   <img width="1366" height="742" alt="Capture d’écran du 2026-07-08 22-19-00" src="https://github.com/user-attachments/assets/00144f91-aded-4ebd-9879-82e1a1f81519" />
 
 
 
-  --Second case (With while loop):Here i choosed n=5
+  # -while loop with n=5:
+
+ <img width="1366" height="742" alt="Capture d’écran du 2026-07-08 22-25-45" src="https://github.com/user-attachments/assets/e73fb8e8-00db-4108-b7bb-07edcff5f81d" />
+
+
+
+# -do---while loop with n=3:
+
+<img width="1366" height="742" alt="Capture d’écran du 2026-07-08 22-34-29" src="https://github.com/user-attachments/assets/6317bdb8-f657-4382-94f5-1ead6cfe5909" />
+
+
+-But in this case we can't control the input of users he can entry for example -3 who is incorrect for n because we declared n to be an integer, here comes the conditions combined with loop to solve this problem, here is an example for that:
+
+<img width="1366" height="742" alt="Capture d’écran du 2026-07-08 22-48-38" src="https://github.com/user-attachments/assets/d500c12f-a0bd-4846-b597-854985e3de76" />
+
+-So like we see here in entered -2 first, then -5 the -10, the program execute the loop while i didn't entered a positive value
+when i entered 0 the process returned 0 so there is any error detected, here comes the powerful point of using loops combined with conditions
+
 
 
   
