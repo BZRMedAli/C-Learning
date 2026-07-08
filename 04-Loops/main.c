@@ -1,4 +1,4 @@
-//For loop
+//for loop
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -14,7 +14,7 @@ int main(void)
     return 0;
 }	
 
-//While loop
+//while loop
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -52,7 +52,7 @@ int main(void)
     return 0;
 }
 
-//Controling error with loop
+//Controling errors with loop combined with condition
 
 #include <stdio.h>
 #include <stdlib.h>
