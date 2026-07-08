@@ -52,4 +52,26 @@ int main(void)
     return 0;
 }
 
+//Controling error with loop
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    int n;
+    printf("Give a number of repetitions you want:");
+    scanf("%d",&n);
+
+    if (n<0){
+    do{
+    printf("The entry should be positive:");
+    scanf("%d",&n);
+    }while(n<0);
+    }
+    
+    return 0;
+}
+
+
 
