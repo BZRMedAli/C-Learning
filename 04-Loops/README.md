@@ -39,12 +39,27 @@ i_increments;
 }
 
 3-do..while:
+
 do{
 code_do_section
 i_increments;
 }while(entering_condition);
 
 Here is an exercice in which we will use while, for and do..while:
-  For example we will try to realise a program that allow to the user to give the number of students, then giving their average grade, after that we will print all their averages:
+  For example we will try to realise a program that allow to the user to give the number of repitition (n),printing the message (Hello, World!) n times:
+
+  --First case (With for loop):Here i choosed n=10
+  
+
+  <img width="1366" height="742" alt="Capture d’écran du 2026-07-08 22-19-00" src="https://github.com/user-attachments/assets/00144f91-aded-4ebd-9879-82e1a1f81519" />
+
+
+
+  --Second case (With while loop):Here i choosed n=5
+
+
+  
+
+  
 
 
